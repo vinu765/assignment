@@ -1,0 +1,69 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+  }
+  
+  header,
+  main,
+  footer {
+    padding: 20px;
+  }
+  
+  nav {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  nav a {
+    text-decoration: none;
+    color: black;
+    padding: 10px;
+  }
+  
+  .banner {
+    background-image: url("C:\Users\HP\AppData\Local\Temp\6d9e432d-61d6-4c84-aaec-03771afd6090_HTML CSS Assignment.zip.090\HTML CSS Assignment\pexels-robin-stickel-70497.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 50px;
+    color: white;
+    text-align: center;
+  }
+  
+  .banner h1 {
+    font-size: 3em;
+    margin-bottom: 20px;
+  }
+  
+  .banner p {
+    font-size: 1.2em;
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border: 1px solid black;
+  }
+  
+  .content h2 {
+    font-size: 2em;
+    margin-bottom: 10px;
+  }
+  
+  .content p {
+    margin-bottom: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
